@@ -1,4 +1,5 @@
 from maximum import maximum
+from maximum import minimum
 
 def test_maximum():
     print("Running test for positive numbers...")
