@@ -14,6 +14,6 @@ def test_minimum():
     assert minimum(13, 9, 16) == 9
 
     print("Running test for negative numbers...")
-    assert minimum(-1, -15, -22) == -1
+    assert minimum(-1, -15, 2) == 15
 
     print("All test cases executed successfully.")
