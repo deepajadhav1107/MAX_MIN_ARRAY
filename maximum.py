@@ -10,3 +10,4 @@ def minimum(a, b, c):
     return result
 if __name__ == "__main__":
     maximum(3, 9, 6)
+    minimum(3, 9, 6)
